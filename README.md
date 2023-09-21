@@ -1,5 +1,5 @@
 # Pygame-OpenGL-Poly-Shape-Renderer
-This repository contains a Python program that utilizes the Pygame and OpenGL libraries to render 3D models of various polyhedra, including a dodecahedron and an icosahedron. These polyhedra can be used in various applications, such as educational demonstrations, game development, or as visual representations of geometric shapes.
+A fun Python program that utilizes the Pygame and OpenGL libraries to render 3D models of various polyhedra, including a dodecahedron and an icosahedron. These polyhedra can be used in various applications, such as educational demonstrations, game development, or as visual representations of geometric shapes.
 
 Features
 

@@ -1,4 +1,4 @@
-# Pygame-OpenGL-Poly-Shape-Renderer
+# Pygame OpenGL Poly Shape Renderer
 A fun Python program that utilizes the Pygame and OpenGL libraries to render 3D models of various polyhedra. This application can be used for various applications, such as educational demonstrations, game development, or as visual representations of geometric shapes.
 
 ## Features

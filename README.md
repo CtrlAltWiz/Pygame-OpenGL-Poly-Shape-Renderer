@@ -20,19 +20,19 @@ Pygame
 PyOpenGL`
 
 You can install Pygame and PyOpenGL using the following commands:
-- `pip install pygame`
-- `pip install PyOpenGL`
+- ```pip install pygame```
+- ```pip install PyOpenGL```
 
 ## Usage
 
 Clone this repository to your local machine:
-- `git clone https://github.com/CtrlAltWiz/Pygame-OpenGL-Poly-Shape-Renderer.git`
+- ```git clone https://github.com/CtrlAltWiz/Pygame-OpenGL-Poly-Shape-Renderer.git```
 
 Navigate to the project directory:
-- `cd Pygame-OpenGL-Poly-Shape-Renderer`
+- ```cd Pygame-OpenGL-Poly-Shape-Renderer```
 
 Run the program:
-- `python PolyShape.py`
+- ```python PolyShape.py```
 
 ## Customization
 
